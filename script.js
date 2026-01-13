@@ -3,7 +3,7 @@ const email = document.getElementById("email")
 const botao = document.getElementById("botao")
 const cadastroDeCliente = document.getElementById("cadastroDeCliente")
 
-const API_URL = "https://crudcrud.com/api/e273e62e91ee4967958d5d1bcd878fe6/clientes"
+const API_URL = "https://crudcrud.com/api/4a09f6a0532a4162a6ff458cc7613b63/clientes"
 
 // LISTAR CLIENTES (GET)
 function carregarClientes() {
